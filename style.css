@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    padding: 20px;
+    box-shadow: 1px 1px 20px 1px #0000003a;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    max-width: 400px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+input , select{
+    width: 100%;
+    margin: 5px 0;
+    padding: 5px 10px;
+    font-size: 18px;
+}
+#num2 {
+    display: none;
+}
+h2 {
+    text-align: center;
+    margin: 0;
+}
+.btn-box {
+    text-align: center
+}
+button {
+    width: ;
+    margin: auto;
+    font-size: 18px;
+    font-weight: bold;
+    background-color:;
+    border-radius: 10px;
+    padding: 10px 20px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
